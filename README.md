@@ -27,6 +27,10 @@ _Captures d'écran à ajouter prochainement._
 
 ## Remarques
 
-Le dossier `data/` n'est pas inclus dans le dépôt GitHub. Les données utilisées proviennent de jeux de données ouverts relatifs aux accidents de la circulation en France, accessibles sur [data.gouv.fr](https://www.data.gouv.fr/). Les fichiers doivent être préparés selon la structure attendue par le programme.
+## Données et limites
 
-Cette application a été réalisée dans un cadre pédagogique. Certaines limites techniques subsistent, notamment concernant les performances de chargement, la gestion des chemins de fichiers et la compatibilité de l'environnement d'exécution.
+Les données utilisées dans ce projet proviennent du jeu de données [Accidents de vélo — Koumoul](https://opendata.koumoul.com/datasets/accidents-velos), construit à partir des données d'accidents corporels de la circulation de l'ONISR (Fichier BAAC).
+
+Le dossier `data/` n'est pas inclus dans le dépôt GitHub. Les fichiers CSV doivent être préparés selon la structure attendue par le programme.
+
+Cette application a été réalisée dans un cadre universitaire et présente encore certaines limites techniques, notamment en matière de performances, de gestion des chemins de fichiers et de compatibilité de l'environnement d'exécution.
